@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackma2003
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking to collaborate on Python Projects
+- 💞️ I’m looking for software engineering internships
 - 📫 How to reach me jiahaoma2000@gmail.com
 
 <!---
