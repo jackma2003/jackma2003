@@ -5,3 +5,5 @@
 • Reach out to me through my [Email](jiahao.ma@nyu.edu), [Linkedin](https://www.linkedin.com/in/jiahao-ma-0b3b33178/)!
 
 Tools and Stacks
+
+![image](https://github.com/jackma2003/jackma2003/assets/93064973/e3937641-0cf0-4e31-9e88-737061737355)
