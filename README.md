@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jackma2003
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer Science 
-- 💞️ I’m looking for software engineering internships
-- 📫 How to reach me jiahaoma2000@gmail.com
+• Currently studying at New York University, majoring in Computer Science
 
-<!---
-jackma2003/jackma2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• Looking for Software Engineering, Fullstack/Frontend/Backend developeper roles
+
+• Reach out to me through my [Email](jiahao.ma@nyu.edu), [Linkedin](https://www.linkedin.com/in/jiahao-ma-0b3b33178/)!
