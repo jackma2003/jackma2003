@@ -1,5 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jackma2003.jackma2003"/>
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jackma2003.jackma2003" />
 
 • Currently studying at New York University, majoring in Computer Science
 
