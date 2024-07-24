@@ -14,6 +14,8 @@
 
 🌱 Looking for Software Engineering, Fullstack/Frontend/Backend developer roles!
 
+🔎 Feel free to look around my github repositories for cool projects!
+
 </div>
 
 <div align="center"> 
