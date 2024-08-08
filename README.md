@@ -12,7 +12,7 @@
 
 👨🏻‍💻 Currently studying at New York University, majoring in Computer Science!
 
-🌱 Looking for Software Engineering, Fullstack/Frontend/Backend developer roles!
+🌱 Looking for Software Engineering, Fullstack/Frontend/Backend developer, PM roles!
 
 🔎 Feel free to look around my github repositories for cool projects!
 
