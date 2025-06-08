@@ -10,9 +10,9 @@
 
 <div align="center">
 
-👨🏻‍💻 Currently studying at New York University, majoring in Computer Science!
+👨🏻‍💻 Recently graduated from New York University, majored in Computer Science!
 
-🌱 Looking for Software Engineering, Fullstack Developer, Cloud & DevOps Engineering, and PM roles!
+🌱 Looking for Software Engineering, Fullstack Developer, Cloud & DevOps Engineering, QA & PM roles!
 
 🔎 Feel free to look around my github repositories for cool projects!
 
