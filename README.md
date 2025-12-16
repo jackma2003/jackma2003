@@ -12,7 +12,7 @@
 
 👨🏻‍💻 Recently graduated from New York University, majored in Computer Science!
 
-🌱 Looking for Software Engineering, Fullstack Developer, Cloud & DevOps Engineering, QA & PM roles!
+🌱 Looking for Software Engineering, Fullstack Developer, Data Science, Cloud & DevOps Engineering, QA & PM roles!
 
 🔎 Feel free to look around my github repositories for cool projects!
 
