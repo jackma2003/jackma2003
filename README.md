@@ -12,7 +12,7 @@
 
 👨🏻‍💻 Currently a Software Engineer at Capgemini!
 
-👨🏻‍💻 🌱 Computer Science graduate from New York University!
+🌱 Computer Science graduate from New York University!
 
 🔎 Feel free to look around my github repositories for cool projects!
 
