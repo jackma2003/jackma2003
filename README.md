@@ -10,9 +10,9 @@
 
 <div align="center">
 
-👨🏻‍💻 Recently graduated from New York University, majored in Computer Science!
+👨🏻‍💻 Currently a Software Engineer at Capgemini!
 
-🌱 Looking for Software Engineering, Fullstack Developer, Data Science, Cloud & DevOps Engineering, QA & PM roles!
+👨🏻‍💻 🌱 Computer Science graduate from New York University!
 
 🔎 Feel free to look around my github repositories for cool projects!
 
